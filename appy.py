@@ -24,3 +24,7 @@ ax.grid()
 
 st.pyplot(fig)
 
+streamlit run app.py
+
+
+
