@@ -23,5 +23,3 @@ ax.set_ylabel("y")
 ax.grid()
 
 st.pyplot(fig)
-
-streamlit run appy.py
